@@ -1,0 +1,96 @@
+h1{
+font-family: 'Ubuntu', sans-serif;
+  font-size:3.8rem;
+  margin-top: 40PX;
+  line-height: 1.25;
+
+}
+#title {
+    background-color: #feb72b;
+}
+.container-fluid{
+  padding: 3% 12%;
+}
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-size:55px;
+    font-weight: bolder;
+}
+
+.nav-link{
+    font-family: 'Montserrat';
+    font-size:23px;
+    font-weight: bolder;
+}
+.Download-btn{
+  margin-left: 20px;
+  margin-top: 1rem;
+}
+#feature {
+  padding: 6% 15%;
+  text-align: center;
+
+}
+.feature-title{
+  font-family: 'Montserrat';
+    font-weight: bolder;
+    text-align: center;
+}
+.icon{
+  color: #feb72b;
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+}
+.icon:hover{
+  color: #f0a500;
+}
+p{
+  color: #8f8f8f;
+}
+
+#testimonial{
+  background-color: #feb72b;
+  padding: 6% 15%;
+  text-align: center;
+}
+.db{
+  width: 20%;
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-left: 20%;
+}
+h2{
+  font-size: 35px;
+}
+em{
+  margin-left: 30px;
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+#sponsors{
+    background-color: #feb72b;
+    text-align: center;
+}
+.sponsors-img{
+  width: 19%;
+  padding: 0 2% 0 2%;
+}
+#pricing{
+  text-align: center;
+    font-family: 'Montserrat';
+    padding: 4% 10%;
+}
+.pricing-heading{
+  font-size: 3rem;
+  line-height: 1.25;
+}
+
+#dta{
+  background-color: #feb72b;
+  text-align: center;
+  padding: 6% 15%;
+}
+#footor{
+    text-align: center;
+      padding: 6% 15%;
+}
