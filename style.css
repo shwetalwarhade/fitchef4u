@@ -1,0 +1,88 @@
+/* title */
+#title{
+  background-color: #feb72b;
+}
+.container-fluid{
+  padding: 3% 10%;
+}
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-size: 5rem;
+}
+.navbar-nav{
+ margin-left: 50%;
+  font-size: 1.5rem;
+}
+h1{
+  text-align: center;
+  font-family: 'Ubuntu' , sans-serif;
+  font-size: 3.6rem;
+  margin-top: 40px;
+  line-height: 1.25;
+}
+.btn-outline-light{
+  margin-left: 1rem;
+}
+.btn-dark{
+  margin-left: 8rem;
+}
+.fa-brands{
+  margin-right:0.5rem;
+}
+p{
+  text-align: center;
+}
+.row{
+  margin-left: 3rem;
+}
+/* features */
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.fa-solid{
+  margin:20px;
+  color: #f3e260;
+}
+.fa-solid:hover{
+  color: #feb72b;
+}
+/* testomonials */
+#testomonials{
+  background-color: #feb72b;
+  padding: 4% 14%;
+  text-align: center;
+}
+.devid{
+  width: 20%;
+  border-radius: 100%;
+  margin-top: 40px;
+}
+em{
+  margin-left: 3rem;
+}
+/* sponsors */
+#sponsors{
+  text-align: center;
+  background-color: #feb72b;
+}
+.sponsors-img{
+  width:15%;
+  margin: 15px;
+}
+/* plans */
+#plans{
+  text-align:center;
+  padding: 4% 12%;
+}
+/* download-btn */
+#download-btn{
+  padding: 4% 15%;
+  text-align: center;
+  background-color: #feb72b;
+}
+#footer{
+  text-align: center;
+  padding: 5% 15%;
+}
